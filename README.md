@@ -27,4 +27,3 @@ This project demonstrates cloud virtualization using GitHub Codespaces with an A
 
 ### Author
 Lamia Benslimane - 3rd Year Cybersecurity - Group 4
-
